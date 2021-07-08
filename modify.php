@@ -33,6 +33,7 @@
     <title>修改會員資料</title>
     <meta charset="utf-8">
     <script type="text/javascript">
+	    <link rel="icon" type="image/png" href="images/favicon.png">
       function check_data()
       {
         if (document.myForm.password.value.length == 0)
