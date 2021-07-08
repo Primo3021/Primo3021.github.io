@@ -35,6 +35,7 @@
         <head>
           <title></title>
           <meta charset='utf-8'>
+	  <link rel="icon" type="image/png" href="images/favicon.png">
         </head>
         <body>
           $name 您好，您的帳號資料如下：<br><br>
