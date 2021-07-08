@@ -57,6 +57,7 @@ $stmt->fetch();
 <title>訪客留言版管理系統</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="style.css" rel="stylesheet" type="text/css">
+	<link rel="icon" type="image/png" href="images/favicon.png">
 </head>
 <body bgcolor="#ffffff">
 <table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
