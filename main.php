@@ -16,6 +16,7 @@
     <title>會員福利</title>
     <meta charset="utf-8">
 	<link href="css/bootstrap-4.3.1.css" rel="stylesheet" />
+	  <link rel="icon" type="image/png" href="images/favicon.png">
     <script src="js/js/jquery-3.3.1.min.js"></script> 
     <script src="js/js/bootstrap.min.js"></script>
 	<style>
