@@ -29,6 +29,7 @@ $total_pages = ceil($total_records/$pageRow_records);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="style.css" rel="stylesheet" type="text/css">
 <link href="css/bootstrap-4.3.1.css" rel="stylesheet" />
+	<link rel="icon" type="image/png" href="images/favicon.png">
 <script src="js/js/jquery-3.3.1.min.js"></script>
 <script src="js/js/bootstrap.min.js"></script>
 <style>
